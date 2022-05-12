@@ -1,0 +1,115 @@
+/* Better Visibility for Market Campers */
+/* Update for Patch - V0.5.3.1 */
+/* Streams */
+.live-streams {
+    backdrop-filter: blur(20px);
+    border-radius: 10px !important;
+    opacity: 0;
+    transition-duration: 0.5s;
+}
+.live-streams:hover {
+    opacity: 1;
+}
+.soc-group[data-v-26102dd2] {
+    width: 6rem;
+    border: none !important;
+    background: transparent !important;
+    backdrop-filter: blur(2px) !important;
+    opacity: 0;
+}
+.text-soc[data-v-26102dd2] {
+    display: none !important;
+}
+.soc-group[data-v-26102dd2]:hover {
+    opacity: 10;
+}
+.soc-group[data-v-f6928a74] {
+    width: 6rem;
+    border: none !important;
+    background: transparent !important;
+    backdrop-filter: blur(2px) !important;
+    opacity: 0;
+}
+.text-soc[data-v-f6928a74] {
+    display: none !important;
+}
+.soc-group[data-v-f6928a74]:hover {
+    opacity: 10;
+}
+.subj-img[data-v-6171d983] {
+    max-width: 160px;
+    max-height: 6.5rem;
+    margin-top: 0.1rem;
+    filter: drop-shadow(rgba(0,0,0,0.99) 0px 0.15rem 0.15rem);
+    align-items: center;
+}
+.subject[data-v-6171d983] {
+    width: 12.55rem;
+    align-items: center !important;
+}
+.count[data-v-6171d983] {
+    font-weight: 900;
+    font-size: 1.2rem;
+    background-color: transparent !important;
+    color: #FFB914 !important;
+}
+.selected[data-v-6171d983] {
+    background: white !important;
+}
+.item-name[data-v-6171d983] {
+    font-weight: 700;
+}
+.subj-img[data-v-a7408f32] {
+    max-width: 13rem;
+    max-height: 6.5rem;
+    margin-top: 0.1rem;
+    filter: drop-shadow(rgba(0,0,0,0.99) 0px 0.15rem 0.15rem);
+}
+.hover-bg[data-v-a7408f32] {
+    opacity: 0;
+}
+.take-btn[data-v-a7408f32] {
+    margin-right: 10.5rem;
+    margin-top: -1.5rem;
+    background-color: transparent !important;
+    --hover-color: #FFB914 !important;
+    --top: transparent !important;
+    --bottom: transparent !important;
+    backdrop-filter: blur(2px) !important;
+    border-radius: 5px;
+}
+.count[data-v-a7408f32] {
+    top: 72px !important;
+    background: transparent !important;
+    font-size: 15px;
+}
+.coin[data-v-a7408f32] {
+    width: 20px;
+}
+.item-name[data-v-a7408f32] {
+    font-weight: 600;
+}
+.chat-cont[data-v-679cb6a8] {
+    display: none!important;
+}
+.preview[data-v-679cb6a8] {
+    width: 30rem;
+}
+.image[data-v-679cb6a8] {
+    width: 30rem;
+}
+.chat-position[data-v-6a4c5c6d] {
+    width: 0rem;
+}
+.chat[data-v-43caa132] {
+    display: none !important;
+}
+.esc-interface {
+    backdrop-filter: blur(0.3rem);
+}
+.right-container[data-v-68ad001e] {
+    background-color: transparent !important;
+}
+.weapons-cont[data-v-1e33891b] {
+    display: none !important;
+}
