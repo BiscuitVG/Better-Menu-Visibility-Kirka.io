@@ -1,6 +1,6 @@
 # BETTER-MENU-VISIBILTY-KIRKA.IO
 
-🗡Custom CSS which improves menu visibility of the default Kirka CSS (More priority given for gaming experience) based on [guywiddasnipah](https://github.com/guywiddasnipah) CSS repositories.
+🗡Custom CSS which improves menu visibility of the default Kirka CSS (More priority given for the gaming experience) based on [guywiddasnipah](https://github.com/guywiddasnipah) CSS repositories.
 
 # INSTALLATION
 
